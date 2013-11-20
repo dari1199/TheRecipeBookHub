@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-#This is the best comment!
+
 gem 'rails', '3.2.14'
 
 # Bundle edge Rails instead:
